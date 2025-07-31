@@ -1,4 +1,4 @@
-# Capstone I Backend
+# Capstone II Backend
 
 ## Getting Started
 
